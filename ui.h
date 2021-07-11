@@ -11,4 +11,5 @@ void menu(char id[16], char pass[8], int len_line, int symbol); // Menu Screen F
 
 void control_menu(int len_line, int symbol); // Menu Screen For Admins
 
+
 #endif
