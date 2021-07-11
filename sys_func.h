@@ -31,6 +31,6 @@ void deposit(char id[16], char pass[8], char temp_money[16]); // Deposit Money I
 int withdraw(char id[16], char pass[8], char temp_money[16]); // Withdraw Money Inside Of Password ".txt" File
 
 void change_pass(char id[16], char old_pass[8], char new_pass[8]); // Change Pass Using "rename();" Inside Of "data/<id>"
-// =========== //
+// ===========//
 
 #endif
