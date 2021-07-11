@@ -207,4 +207,4 @@ void change_pass(char id[16], char old_pass[8], char new_pass[8])
 
     rename(old_path, new_path);
 }
-// =========== //
+// ========== //
