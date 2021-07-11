@@ -22,6 +22,7 @@ int main()
             if (strstr(temp_str, "q")) {  }
             else { create_account(temp_str); }
         }
+        
         else if (strstr(menu_choice, "2"))
         {
             screen(40, 205, "Enter account id", 8, 16);
