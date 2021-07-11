@@ -59,7 +59,7 @@ If you type "create" in id screen then you can create new account. So you will r
 
 User commands: deposit() withdraw() change_pass() delete_account() create_account()
 
-Admin commands: create_account() delete_account() change_password() ban_account()
+Admin commands: create_account() delete_account() change_password() ban_account().
 
 
 
