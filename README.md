@@ -29,7 +29,7 @@ The images taken from windows terminal.
 ## Admin Menu
 
 ![image](https://user-images.githubusercontent.com/79791451/125198291-f8a12880-e27e-11eb-9351-afc35e9db889.png)
-
+.
 
 # Compile And Running
 
