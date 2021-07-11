@@ -30,6 +30,7 @@ clear:
 
 main:
 	gcc main.c src/sys_func.c src/ui.c -o main
+	
 
 control_panel:
 	gcc control_panel.c src/sys_func.c src/ui.c -o control_panel
