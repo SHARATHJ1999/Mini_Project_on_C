@@ -25,7 +25,7 @@ int id_creator(void)
         else { return rndm_id; }
     }
 }
-// =============== //
+// ===============//
 
 // Account Subsystem //
 void set_pass(char temp_id[16], char create_pass[8])
