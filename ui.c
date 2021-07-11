@@ -91,4 +91,5 @@ void control_menu(int len_line, int symbol)
     for (int i = 0; i < len_line; i += 1) { printf("%c", symbol); }
     new_line();
     printf("| %c ", 175);
+
 }
