@@ -16,6 +16,8 @@ The images taken from windows terminal.
 
 ## ID Entering Screen
 
+![image](https://user-images.githubusercontent.com/79791451/125198253-bc6dc800-e27e-11eb-80f4-283cca56fbce.png)
+
 
 
 
