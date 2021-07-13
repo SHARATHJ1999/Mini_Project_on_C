@@ -61,6 +61,17 @@ User commands: deposit() withdraw() change_pass() delete_account() create_accoun
 
 Admin commands: create_account() delete_account() change_password() ban_account().
 
+# Folder Structure
+
+|Folder|Description|
+|---|---|
+|`1_Requirements`| Documents detailing requirements and research |
+|`2_Architecture`|Behavioural and Structural UML Diagrams|
+|`3_Implementation`|All code and documentation|
+|`4_TestPlanAndOutput`|Documents with test plans and procedures and Output|
+|`5_Report`|Documentation for Project Evaluation at LTTS|
+|`6_ImagesAndVideos`|Code Execution Images and Videos|
+
 
 
 
