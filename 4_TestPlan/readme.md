@@ -17,3 +17,4 @@
 |  L_03  |  To Search a book enter its ID and check whether the book has been issued or not. If issued check the due date, the member to whom the book is issued. |          200            |       1      |     1      | Scenario based |
 |  L_04  |  To update the status of a book. If issued or renewed, the due date as well as status should be updated | 200, "issued", "12/03/21", "23/03/21", "Ram","Kumar", 123 | 1 | 1 | Scenario based |
 |  L_05  |   This is used when a book is deleted.  |          200            |       1      |      1     | Scenario based |
+
