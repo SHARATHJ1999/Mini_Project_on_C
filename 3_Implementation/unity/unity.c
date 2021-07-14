@@ -702,7 +702,7 @@ void UnityAssertBits(const UNITY_INT mask,
     }
 }
 
-/*-----------------------------------------------*/
+/*----------------------------------------------*/
 void UnityAssertEqualNumber(const UNITY_INT expected,
                             const UNITY_INT actual,
                             const char* msg,
