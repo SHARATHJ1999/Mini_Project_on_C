@@ -1,6 +1,6 @@
 # Library Management System
 
-![lms](![image](https://user-images.githubusercontent.com/79791451/125668201-c597e280-ed84-47f6-bfdf-167b28bf9357.png))
+!(![image](https://user-images.githubusercontent.com/79791451/125668201-c597e280-ed84-47f6-bfdf-167b28bf9357.png))
 
 # SDLC Activity Based Learning
 
