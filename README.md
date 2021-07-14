@@ -13,6 +13,20 @@ Folder             | Description
 `5_images`         | Output images
 
 
+## How to Run
+
+### - On Linux
+
+### - On Windows
+
+1. Follow [this](https://code.visualstudio.com/docs/languages/cpp) tutorial to install gcc compiler to your windows machine.
+
+2. Open the project Implementation directory inside command prompt.
+3. Run the following commands inside command prompt
+   - make 
+   - make run
+
+
 
 ## Contributors List and Summary
 
