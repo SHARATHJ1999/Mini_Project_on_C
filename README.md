@@ -1,5 +1,7 @@
 # Library Management System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ed695d69582450f9cb22a7fa538deaa)](https://app.codacy.com/gh/SHARATHJ1999/Mini_Project_on_C?utm_source=github.com&utm_medium=referral&utm_content=SHARATHJ1999/Mini_Project_on_C&utm_campaign=Badge_Grade_Settings)
+
 
 
 
