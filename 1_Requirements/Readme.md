@@ -78,3 +78,4 @@ HR06	User shall be able to delete the book	Scenario	|Future|
 |LR04	|User shall be able to search the book by its authors name if that book is not available then display the menu to chose any other option	|HR04	|Implemented|
 |LR05|	User shall be able to display the count of total number of books in the library	|HR05|	Implemented|
 |LR06|User shall be able to exit from the program if no option is needed to perform	|HR01 ,HR02, HR03, HR04,HR05|	Implemented|
+
