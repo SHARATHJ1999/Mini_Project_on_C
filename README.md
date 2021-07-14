@@ -4,9 +4,9 @@
 
 # SDLC Activity Based Learning
 
-Build | Code Quality | Unity | Git Inspector
+Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
-[![Code Quality Score](https://www.code-inspector.com/project/25046/score/svg)(https://www.code-inspector.com/project/25046/status/svg)
+|[![Code Quality Score](https://www.code-inspector.com/project/25046/score/svg)[![Code Quality Grade](https://www.code-inspector.com/project/25046/status/svg) |
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/131169be5e754ba18ccadd0f3c64c84c)](https://www.codacy.com/gh/SHARATHJ1999/Mini_Project_on_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHARATHJ1999/Mini_Project_on_C&amp;utm_campaign=Badge_Grade)
 
 
