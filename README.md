@@ -2,6 +2,10 @@
 
 !6912a3dfbd0d877bd73b530f4244bb39.Library-Management-System
 
+https://www.code-inspector.com/project/25046/score/svg
+
+https://www.code-inspector.com/project/25046/status/svg
+
 
 
 ## Folder Structure
