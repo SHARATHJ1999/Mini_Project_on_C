@@ -1,10 +1,11 @@
 # Library Management System
 
-!6912a3dfbd0d877bd73b530f4244bb39.Library-Management-System
 
-https://www.code-inspector.com/project/25046/score/svg
+![lms](https://user-images.githubusercontent.com/86132605/124701521-5c88c180-df0c-11eb-8e12-f1c93361d990.png)
+# SDLC Activity Based Learning
 
-https://www.code-inspector.com/project/25046/status/svg
+Code Inspector
+[Code Quality Score](https://www.code-inspector.com/project/25046/score/svg)[Code Grade](https://www.code-inspector.com/project/25046/status/svg)
 
 
 
